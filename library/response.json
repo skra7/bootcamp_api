@@ -1,0 +1,10 @@
+{
+    "201": "Created",
+    "200": "Success",
+    "400": " < Field > is missing",
+    "401": "token is invalid or has expired",
+    "403": "No Content | Data not found",
+    "409": "Conflict | Duplicate",
+    "410" : "Password do not match",
+    "500": "Internal server error"
+}
